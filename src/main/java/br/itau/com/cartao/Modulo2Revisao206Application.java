@@ -1,4 +1,4 @@
-package br.itau.com.modulo2revisao206;
+package br.itau.com.cartao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

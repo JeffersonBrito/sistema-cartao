@@ -1,6 +1,6 @@
-package br.itau.com.modulo2revisao206.repositories;
+package br.itau.com.cartao.repositories;
 
-import br.itau.com.modulo2revisao206.models.Cliente;
+import br.itau.com.cartao.models.Cliente;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

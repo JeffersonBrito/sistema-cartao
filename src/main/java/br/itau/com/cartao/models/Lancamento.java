@@ -1,10 +1,9 @@
-package br.itau.com.modulo2revisao206.models;
+package br.itau.com.cartao.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import javax.persistence.*;
 import javax.validation.constraints.DecimalMin;
-import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 import java.time.LocalDateTime;
 

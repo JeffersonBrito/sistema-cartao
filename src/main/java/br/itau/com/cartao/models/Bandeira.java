@@ -1,4 +1,4 @@
-package br.itau.com.modulo2revisao206.models;
+package br.itau.com.cartao.models;
 
 public enum Bandeira {
     MASTERCARD("Mastercard"),
